@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "John",
+      "password": "1234",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Mark",
+      "password": "1234",
+      "email": "mark@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "Sara",
+      "password": "1234",
+      "email": "sara@gmail.com"
+    },
+    {
+      "id": 4,
+      "username": "Brad",
+      "password": "1234",
+      "email": "test@test.com"
+    }
+  ],
+
+
+
+
+
+
+
+
+  "conge": [
+    {
+      "EtatConge": "En attente",
+      "dateDep": "24/7/2018",
+      "jusqu'a": "24/7/2018",
+      "dateInscription": "Fri Jul 20 08:08:36 GMT+00:00 2018",
+      "dateRetour": "26/7/2018",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Congé",
+      "typeConge": "Congé payé",
+      "id": 1,
+      "dateSortieAutorisation": "-"
+    },
+    {
+      "EtatConge": "En attente",
+      "dateDep": "2/8/2018",
+      "jusqu'a": "3/8/2018",
+      "dateInscription": "Fri Jul 20 08:09:52 GMT+00:00 2018",
+      "dateRetour": "6/8/2018",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Congé",
+      "typeConge": "Congé payé",
+      "id": 2,
+      "dateSortieAutorisation": "-"
+    },
+    {
+      "EtatConge": "En attente",
+      "dateDep": "10:24",
+      "jusqu'a": "16:04",
+      "dateInscription": "Fri Jul 20 13:29:28 GMT+00:00 2018",
+      "dateRetour": "-",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Autorisation",
+      "typeConge": "Congé payé",
+      "id": 4,
+      "dateSortieAutorisation": "19/7/2018"
+    },
+    {
+      "EtatConge": "En attente",
+      "dateDep": "09:03",
+      "jusqu'a": "15:15",
+      "dateInscription": "Fri Jul 20 14:03:28 GMT+00:00 2018",
+      "dateRetour": "-",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Autorisation",
+      "typeConge": "Congé payé",
+      "id": 5,
+      "dateSortieAutorisation": "07/8/2018"
+    },
+    {
+      "EtatConge": "En attente",
+      "dateDep": "09:22",
+      "jusqu'a": "14:23",
+      "dateInscription": "Thu Jul 26 08:23:20 GMT+00:00 2018",
+      "dateRetour": "-",
+      "dateSortieAutorisation": "6/8/2018",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Autorisation",
+      "typeConge": "Congé payé",
+      "id": 6
+    },
+    {
+      "EtatConge": "En attente",
+      "dateDep": "29/7/2018",
+      "jusqu'a": "5/8/2018",
+      "dateInscription": "Thu Jul 26 08:24:28 GMT+00:00 2018",
+      "dateRetour": "6/8/2018",
+      "dateSortieAutorisation": "-",
+      "idConge": 0,
+      "idUser": 1,
+      "raisonConge": "Maladie",
+      "typeConOrAuto": "Congé",
+      "typeConge": "Congé payé",
+      "id": 7
+    }
+  ],
+
+
+
+
+
+
+
+
+  
+
+  "pointage": [
+    {
+      "idUser": 1,
+      "jour": "Lundi",
+      "datePointage": "16/7/2018",
+      "tempsPEntre": "07:00",
+      "tempsPSortie": "16:00"
+    },
+    {
+      "idUser": 1,
+      "jour": "Mardi",
+      "datePointage": "17/7/2018",
+      "tempsPEntre": "08:00",
+      "tempsPSortie": "17:00"
+    },
+    {
+      "idUser": 1,
+      "jour": "Mercredi",
+      "datePointage": "18/7/2018",
+      "tempsPEntre": "08:10",
+      "tempsPSortie": "17:00"
+    },
+    {
+      "idUser": 1,
+      "jour": "Jeudi",
+      "datePointage": "19/7/2018",
+      "tempsPEntre": "08:00",
+      "tempsPSortie": "16:45"
+    },
+    {
+      "idUser": 1,
+      "jour": "Vendredi",
+      "datePointage": "20/7/2018",
+      "tempsPEntre": "07:50",
+      "tempsPSortie": "16:50"
+    },
+    {
+      "idUser": 1,
+      "jour": "Lundi",
+      "datePointage": "23/7/2018",
+      "tempsPEntre": "07:51",
+      "tempsPSortie": "16:51"
+    }
+  ]
+}
